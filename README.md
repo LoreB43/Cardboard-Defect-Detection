@@ -23,3 +23,6 @@ Folds & Scratches: Segmented region analysis to detect improper folding or surfa
 
 ### 📈 Results
 The system demonstrated high robustness across varying lighting conditions, achieving a near-zero false negative rate over a dataset of 108 test images.
+<img src="https://github.com/user-attachments/assets/dd3e52df-4aa7-4a03-8288-2e5eae0bc28a" width="30%">
+<img src="https://github.com/user-attachments/assets/4f1884b0-4cd0-48b5-be7c-a8300793612c" width="30%">
+

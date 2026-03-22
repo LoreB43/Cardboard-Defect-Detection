@@ -1,6 +1,11 @@
 # Cardboard Defects Detection - Machine Vision System
-This project was developed for the Advanced Measurement System for Control Application course (A.Y. 2024-2025) at Politecnico di Milano.   
-It implements a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.  
+Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.
+
+---
+## Project Objectives   
+Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.  
+
+## Realization
 
 ### 🚀 Key Features
 Real-time Performance: Optimized for high-speed conveyor belts (up to 111.75 m/min) with a motion blur threshold below 5px.  
@@ -20,9 +25,16 @@ Detection Logic:
 Geometrical: Compares test samples against a high-quality reference using hierarchical contour analysis.  
 Texture: Isolates damage by subtracting structural masks from Sobel gradient maps.  
 Folds & Scratches: Segmented region analysis to detect improper folding or surface irregularities.  
+## Problems
+
+## Solutions
 
 ### 📈 Results
 The system demonstrated high robustness across varying lighting conditions, achieving a near-zero false negative rate over a dataset of 108 test images.
 <img src="https://github.com/user-attachments/assets/dd3e52df-4aa7-4a03-8288-2e5eae0bc28a" width="30%">
 <img src="https://github.com/user-attachments/assets/4f1884b0-4cd0-48b5-be7c-a8300793612c" width="30%">
+
+## Future Work
+
+## How to Run
 

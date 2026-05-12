@@ -2,9 +2,6 @@
 Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.
 
 ---
-## Project Objectives   
-Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.  
-
 ## Realization
 
 ### 🚀 Key Features

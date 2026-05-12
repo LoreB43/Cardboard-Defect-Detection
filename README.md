@@ -1,5 +1,8 @@
+<img width="1126" height="1477" alt="light setup" src="https://github.com/user-attachments/assets/7cf8bc7d-b6e1-400c-8017-cc6177cc4d12" />
 # Cardboard Defects Detection - Machine Vision System
 Implementation of a real-time machine vision pipeline designed to ensure quality control in packaging production lines by detecting geometrical, texture, and structural defects in cardboards.
+<img src="https://github.com/user-attachments/assets/65f1b73f-718f-40e6-af6b-13454b3e180a"  width="35%" />
+<img src="https://github.com/user-attachments/assets/abe64b98-6831-4174-a0ed-91e23e529577"  width="35%"/>
 
 ---
 ## Problem Objectives
